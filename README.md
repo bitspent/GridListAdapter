@@ -3,9 +3,9 @@ I needed a grid that looks different from all classic ones.
 I wanted two columns to load my Card Items but with no row alignment:
 
 ========= 
-|	|  =========
-|	|  |       |
-|	|  |       |
+|	      |  =========
+|	      |  |       |
+|	      |  |       |
 =========  |       |
 =========  |       |
 |       |  |       |
