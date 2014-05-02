@@ -1,0 +1,15 @@
+<menu
+xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/menu_small"
+    android:title="Small height" />
+    <item
+    android:id="@+id/menu_medium"
+    android:title="Medium height" />
+      <item
+    android:id="@+id/menu_default"
+    android:title="Default layout" />
+<item
+    android:id="@+id/menuabout"
+    android:title="About" />
+</menu>
